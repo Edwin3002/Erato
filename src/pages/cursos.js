@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import CardCursos from '../components/CardCursos'
 import cursosData from '../data/cursosData.json'
 
-const cursos = () => {
+const Cursos = () => {
 
   const [data, setData] = useState(cursosData)
 
@@ -17,4 +17,4 @@ const cursos = () => {
   )
 }
 
-export default cursos
+export default Cursos
