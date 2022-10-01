@@ -11,16 +11,16 @@ export default function Home() {
           <h1 className='text-center text-4xl text-bold my-4'>Lista de cursos</h1>
           <ul className=' flex flex-col justify-around h-3/4'>
             <li className='flex'>
-              <span className='bg-red-400 rounded px-10 py-2 m-auto'>Curso 1</span>
+              <span className='bg-red-400 hover:bg-red-600 rounded px-10 py-2 m-auto'>Curso 1</span>
             </li>
             <li className='flex'>
-              <span className='bg-red-400 rounded px-10 py-2 m-auto'>Curso 2</span>
+              <span className='bg-red-400 hover:bg-red-600 rounded px-10 py-2 m-auto'>Curso 2</span>
             </li>
             <li className='flex'>
-              <span className='bg-red-400 rounded px-10 py-2 m-auto'>Curso 3</span>
+              <span className='bg-red-400 hover:bg-red-600 rounded px-10 py-2 m-auto'>Curso 3</span>
             </li>
             <li className='flex'>
-              <span className='bg-red-400 rounded px-10 py-2 m-auto'>Curso 4</span>
+              <span className='bg-red-400 hover:bg-red-600 rounded px-10 py-2 m-auto'>Curso 4</span>
             </li>
           </ul>
         </section>
