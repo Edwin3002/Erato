@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "img": "https://res.cloudinary.com/edwin3002/image/upload/v1664576090/Erato/curso_1_hgh6e2.jpg",
+        "name": "Integral de música"
+    },
+    {
+        "id": 2,
+        "img": "https://res.cloudinary.com/edwin3002/image/upload/v1664576090/Erato/curso_2_cymry4.jpg",
+        "name": "Bajo"
+    },
+    {
+        "id": 3,
+        "img": "https://res.cloudinary.com/edwin3002/image/upload/v1664576091/Erato/curso_3_dumky5.jpg",
+        "name": "Guitarra eléctrica"
+    },
+    {
+        "id": 4,
+        "img": "https://res.cloudinary.com/edwin3002/image/upload/v1664576090/Erato/curso_4_xi2kpp.jpg",
+        "name": "Arreglos musicales"
+    },
+    {
+        "id": 5,
+        "img": "https://res.cloudinary.com/edwin3002/image/upload/v1664576091/Erato/curso_5_tdzggy.jpg",
+        "name": "Batería"
+    },
+    {
+        "id": 6,
+        "img": "https://res.cloudinary.com/edwin3002/image/upload/v1664576091/Erato/curso_6_eg5pli.jpg",
+        "name": "Guitarra acústica"
+    },
+    {
+        "id": 7,
+        "img": "https://res.cloudinary.com/edwin3002/image/upload/v1664576092/Erato/curso_7_kfzvbj.jpg",
+        "name": "Ensamble"
+    },
+    {
+        "id": 8,
+        "img": "https://res.cloudinary.com/edwin3002/image/upload/v1664576091/Erato/curso_8_th0u0r.jpg",
+        "name": "Teclado"
+    }
+]
