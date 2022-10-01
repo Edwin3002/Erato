@@ -31,10 +31,10 @@ const Footer = () => {
                 <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Redes</h2>
                 <ul className="text-gray-600 dark:text-gray-400">
                     <li className="mb-4">
-                        <a href="https://www.facebook.com/AAErato" target='_blank' className="hover:underline ">Facebook</a>
+                        <a href="https://www.facebook.com/AAErato" target='_blank' rel="noreferrer" className="hover:underline ">Facebook</a>
                     </li>
                     <li>
-                        <a href="https://www.instagram.com/aaerato/?hl=en"  target='_blank' className="hover:underline">Instagram</a>
+                        <a href="https://www.instagram.com/aaerato/?hl=en"  target='_blank' rel="noreferrer" className="hover:underline">Instagram</a>
                     </li>
                 </ul>
             </div>
